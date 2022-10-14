@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(16, 15, 17);
+  color: #fff;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc-wrapper {
+  background-color: #fff;
+  width: 40%;
+  border-radius: 5px;
+  margin-top: 50px;
+  border: 1px solid gray;
+}
+
+.row {
+  display: flex;
+}

@@ -1,0 +1,27 @@
+.input-container {
+  height: 9em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  padding: 16px;
+  background-color: rgb(0, 0, 0);
+}
+
+.result {
+  flex: 1;
+  font-size: 20px;
+  color: #fff;
+  margin: 0 auto;
+  flexwrap: wrap;
+  max-length: 10;
+}
+
+
+.text {
+  flex: 1;
+  font-size: 18px;
+  color: #fff;
+  flexwrap: wrap;
+  margin-top: 25px;
+}

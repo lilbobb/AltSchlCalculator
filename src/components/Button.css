@@ -1,0 +1,12 @@
+.btn-container{
+  height: 2.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  background-color: #000000;
+  border: 1px solid #5a5a5a;
+/*   border-radius: 5px; */
+  color: #fff;
+  flex: 1;
+}
