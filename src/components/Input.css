@@ -1,5 +1,5 @@
 .input-container {
-  height: 9em;
+  height: 10em;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
@@ -10,11 +10,9 @@
 
 .result {
   flex: 1;
-  font-size: 20px;
+  font-size: 16px;
   color: #fff;
-  margin: 0 auto;
-  flexwrap: wrap;
-  max-length: 10;
+  max-length: 12;
 }
 
 
@@ -22,6 +20,4 @@
   flex: 1;
   font-size: 18px;
   color: #fff;
-  flexwrap: wrap;
-  margin-top: 25px;
 }
